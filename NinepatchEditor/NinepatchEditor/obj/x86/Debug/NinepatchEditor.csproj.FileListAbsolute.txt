@@ -1,0 +1,9 @@
+c:\users\josh\documents\visual studio 2010\Projects\NinepatchEditor\NinepatchEditor\NinepatchEditor\bin\x86\Debug\Content\buttonFont.xnb
+c:\users\josh\documents\visual studio 2010\Projects\NinepatchEditor\NinepatchEditor\NinepatchEditor\bin\x86\Debug\NinepatchEditor.exe
+c:\users\josh\documents\visual studio 2010\Projects\NinepatchEditor\NinepatchEditor\NinepatchEditor\bin\x86\Debug\NinepatchEditor.pdb
+c:\users\josh\documents\visual studio 2010\Projects\NinepatchEditor\NinepatchEditor\NinepatchEditor\bin\x86\Debug\YogUILibrary.dll
+c:\users\josh\documents\visual studio 2010\Projects\NinepatchEditor\NinepatchEditor\NinepatchEditor\bin\x86\Debug\YogUILibrary.pdb
+c:\users\josh\documents\visual studio 2010\Projects\NinepatchEditor\NinepatchEditor\NinepatchEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2010\Projects\NinepatchEditor\NinepatchEditor\NinepatchEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\josh\documents\visual studio 2010\Projects\NinepatchEditor\NinepatchEditor\NinepatchEditor\obj\x86\Debug\NinepatchEditor.exe
+c:\users\josh\documents\visual studio 2010\Projects\NinepatchEditor\NinepatchEditor\NinepatchEditor\obj\x86\Debug\NinepatchEditor.pdb
